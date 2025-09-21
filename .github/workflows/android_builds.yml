@@ -1,4 +1,4 @@
-name: 🤖 Android Builds
+name: 🤖 Android Builds 2
 on:
   workflow_call:
     inputs:
@@ -110,3 +110,4 @@ jobs:
         with:
           name: artifacts
           path: ./gdextension_build/build/*
+
